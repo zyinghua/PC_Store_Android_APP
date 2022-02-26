@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724229745841",
+    "project_id": "fit2081pcapplicationlabw8",
+    "storage_bucket": "fit2081pcapplicationlabw8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724229745841:android:dffae91bce037c16fbc690",
+        "android_client_info": {
+          "package_name": "com.example.labw3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724229745841-afjndmmeeddej2viu6ivjcahl4kejlsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMH4w8IXw-pBJHQfM4v02rj9BZFjgEvIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724229745841-afjndmmeeddej2viu6ivjcahl4kejlsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

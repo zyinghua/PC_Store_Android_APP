@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Github/PC_Store_Android_APP/app/src/main/res/layout/activity_main.xml" value="0.45516304347826086" />
+        <entry key="..\:/Github/PC_Store_Android_APP/app/src/main/res/layout/activity_pclist.xml" value="0.45516304347826086" />
+        <entry key="..\:/Github/PC_Store_Android_APP/app/src/main/res/layout/pc_card_layout.xml" value="0.45516304347826086" />
+        <entry key="..\:/Github/PC_Store_Android_APP/app/src/main/res/layout/pc_list_content.xml" value="0.45516304347826086" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW10/PC_Application/app/src/main/res/layout/activity_main.xml" value="0.5489130434782609" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW10/PC_Application/app/src/main/res/layout/coord_activity_main.xml" value="0.2791666666666667" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW10/PC_Application/app/src/main/res/layout/drawer_activity_main.xml" value="0.2791666666666667" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW10/PC_Application/app/src/main/res/menu/activity_main_drawer.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW11/PC_Application/app/src/main/res/layout/activity_main.xml" value="0.4796195652173913" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW11/PC_Application/app/src/main/res/layout/activity_pclist.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW11/PC_Application/app/src/main/res/layout/drawer_activity_main.xml" value="0.4796195652173913" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW11/PC_Application/app/src/main/res/layout/nav_header_main.xml" value="0.4796195652173913" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW11/PC_Application/app/src/main/res/layout/pc_list_content.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/drawable/ic_launcher_background.xml" value="0.561025641025641" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.35575635876840694" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/layout-w1250dp-small/activity_login.xml" value="0.35575635876840694" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/layout-w936dp/activity_login.xml" value="0.415234375" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/layout/activity_login2.xml" value="0.325" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/layout/activity_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/layout/activity_pclist.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/layout/activity_sign_up.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/layout/pc_list_content.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/menu/options_menu.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW12/PC_Application/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.561025641025641" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW3/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.21887550200803213" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW3/app/src/main/res/layout/activity_login.xml" value="0.340625" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW3/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW4/PCApplication/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW5/app/src/main/res/drawable/add_new_pc.xml" value="0.5697916666666667" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW5/app/src/main/res/drawable/add_pc_icon.xml" value="0.5697916666666667" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW5/app/src/main/res/drawable/remove_last_pc.xml" value="0.5697916666666667" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW5/app/src/main/res/drawable/side_nav_bar.xml" value="0.5697916666666667" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW5/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW5/app/src/main/res/layout/bill_listview_layout.xml" value="0.5407608695652174" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW5/app/src/main/res/layout/coord_activity_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW5/app/src/main/res/layout/drawer_activity_main.xml" value="0.5452898550724637" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW5/app/src/main/res/layout/nav_header_main.xml" value="0.5452898550724637" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW5/app/src/main/res/menu/activity_main_drawer.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW5/app/src/main/res/menu/options_menu.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW6/PCApplication/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="0.5197916666666667" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW6/PCApplication/app/src/main/res/layout/activity_main.xml" value="0.463768115942029" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW6/PCApplication/app/src/main/res/layout/activity_pclist.xml" value="0.463768115942029" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW6/PCApplication/app/src/main/res/layout/bill_listview_layout.xml" value="0.463768115942029" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW6/PCApplication/app/src/main/res/layout/coord_activity_main.xml" value="0.3302083333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW6/PCApplication/app/src/main/res/layout/drawer_activity_main.xml" value="0.3302083333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW6/PCApplication/app/src/main/res/layout/nav_header_main.xml" value="0.3302083333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW6/PCApplication/app/src/main/res/layout/pc_card_layout.xml" value="0.67" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW6/PCApplication/app/src/main/res/layout/pc_list_content.xml" value="0.44021739130434784" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW7/app/src/main/res/layout/activity_pclist.xml" value="0.5384963768115942" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW7/app/src/main/res/layout/coord_activity_main.xml" value="0.5249094202898551" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW7/app/src/main/res/layout/pc_card_layout.xml" value="0.5249094202898551" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW7/app/src/main/res/layout/pc_list_content.xml" value="0.5249094202898551" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.5697916666666667" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/drawable/ic_launcher_background.xml" value="0.5697916666666667" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/drawable/side_nav_bar.xml" value="0.5697916666666667" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/layout/activity_main.xml" value="0.5380208333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/layout/activity_pclist.xml" value="0.5380208333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/layout/coord_activity_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/layout/drawer_activity_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/layout/nav_header_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/layout/pc_card_layout.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/layout/pc_list_content.xml" value="0.5380208333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/menu/activity_main_drawer.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/menu/options_menu.xml" value="0.5536458333333333" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.46145833333333336" />
+        <entry key="..\:/Monash Files/2021_OCT_FIT2081_Mobile_App_Dev/AndroidStudioLabs/LabW8/PC_Application/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.46145833333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="LOG_TAG">MainActivityDLog</string>
+    <string name="mBoard_TAG">MotherBoardTag</string>
+    <string name="gCard_TAG">GraphicsCardTag</string>
+    <string name="RAM_TAG">RAMTag</string>
+    <string name="SSD_TAG">SSDTag</string>
+    <string name="CPU_TAG">CPUTag</string>
+    <string name="PRICE_TAG">PriceTag</string>
+    <string name="FIELDS_SP_TAG">FIELDS_SP_TAG</string>
+    <string name="BILL_SP_TAG">BILL_SP_TAG</string>
+    <string name="BILL_DATA_TAG">BILL_DATA_TAG</string>
+</resources>

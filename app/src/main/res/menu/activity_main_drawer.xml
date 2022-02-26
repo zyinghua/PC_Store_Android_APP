@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_pc"
+        android:icon="@drawable/add_pc_icon"
+        android:title="@string/add_pc"/>
+
+    <item
+        android:id="@+id/remove_last_pc"
+        android:icon="@drawable/remove_last_pc"
+        android:title="@string/remove_last_pc"/>
+
+    <item
+        android:id="@+id/remove_all_pcs"
+        android:icon="@drawable/remove_all_pcs"
+        android:title="@string/remove_all_pcs"/>
+
+    <item
+        android:id="@+id/list_all_pcs"
+        android:icon="@drawable/list_all_pcs"
+        android:title="@string/list_all_pcs"/>
+</menu>
